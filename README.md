@@ -12,3 +12,10 @@ CSV header: `"documentId", "authorId", "authorName", "authorAffiliation", "autho
 Some background information about the data: It's a sample of our MEDLINE database, along with expert names. The names have been anonymized. The sample takes all of our records with a publication date of May 1, 2016 and beyond.
 
 
+example graph with dummy data*:
+
+![Alt text](pics/example_graph.png?raw=true "Title")
+![Alt text](pics/example_table.png?raw=true "Title")
+
+
+Note -- These images are just for illustrative purposes, feel free to be as creative as you wish. Based on feedback, we've added an additional field called "pubDate" so that your visualizations can have an additional dimension, if desired.
