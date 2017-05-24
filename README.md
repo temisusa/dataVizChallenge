@@ -44,11 +44,11 @@ The names have been anonymized. The sample takes all of our records with a publi
 
 #### example graph with dummy data*:
 
-![Alt text](pics/example_graph.png?raw=true "Title")
-![Alt text](pics/example_table.png?raw=true "Title")
+![Sample Graph](pics/example_graph.png?raw=true "Title")
 
 
-*Note -- These images are just for illustrative purposes, feel free to be as creative as you wish. Based on feedback, we've added an additional field called "pubDate" so that your visualizations can have an additional dimension, if desired.
+
+*Note -- This image is just for illustrative purposes; feel free to be as creative as you wish. Based on feedback, we've added an additional field called "pubDate" so that your visualizations can have an additional dimension, if desired.
 
 
 
