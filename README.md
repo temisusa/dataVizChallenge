@@ -6,6 +6,11 @@ Challenge: Given a csv with experts and their publications, seek insightful and 
 
 There are two files, the full data set (millions of records) and a smaller subset (20k records). The subset may be easier to work with due to the smaller size, but feel free to trim that down further or use the entire database, as needed.
 
+Google Drive links for Download:
+
+[Expert Data Subset](https://drive.google.com/file/d/0B-EV3iSjaYwLYVFhYUcwYXE5ZW8/view?usp=sharing)
+[Full Expert Dataset](https://drive.google.com/file/d/0B-EV3iSjaYwLMDZCamhubmJueEE/view?usp=sharing)
+
 
 CSV header: `"documentId", "authorId", "authorName", "authorAffiliation", "authorCountry", "pubDate"`
 Stats for full file: 
